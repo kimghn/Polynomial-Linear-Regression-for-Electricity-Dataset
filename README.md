@@ -1,2 +1,2 @@
 # Polynomial-Linear-Regression-for-Electricity-Dataset
-Drawing four polynomial linear regressions for the electricity dataset to show the relationship between consumption and the other features
+I used Electricity dataset with 46k samples. First, I analyzed correlation between electricity dataset features such as Production, Oil and Gas, Coil and Biomass with Consumption, then I plotted a Polynomial linear regression with 5 degree for all features to understand their relation. I concluded that polynomial regression was best fitted for Consumption and Biomass.
